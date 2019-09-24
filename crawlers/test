@@ -1,0 +1,5 @@
+Host: kyfw.12306.cn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0
+Referer: https://kyfw.12306.cn/otn/leftTicket/init?linktypeid=dc&fs=%E4%B8%8A%E6%B5%B7,SHH&ts=%E6%88%90%E9%83%BD,CDW&date=2019-09-10&flag=N,N,Y
+If-Modified-Since: 0
+Connection: keep-alive

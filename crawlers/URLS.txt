@@ -1,0 +1,10 @@
+//********** search trains ***********//
+Raw JS code:
+window.open(singleWayToOld + "?linktypeid=dc&fs=" + e.from_station_name_encode + "," + e.from_station + "&ts=" + e.to_station_name_encode + "," + e.to_station + "&date=" + e.train_date + "&flag=" + e.isStudent + "," + e.isHigh + ",Y")
+URL:
+[singleWayToOld]?linktypeid=dc&fs=[srcName],[srcID]&ts=[destName],[destID]&date=[depDate]&flag=[isStu],[isHigh],Y
+https://kyfw.12306.cn/otn/leftTicket/init?linktypeid=dc&fs=上海虹桥,AOH&ts=南京,NJH&date=2019-6-6&flag=N,Y,Y
+https://kyfw.12306.cn/otn/leftTicket/init?linktypeid=dc&fs=%E4%B8%8A%E6%B5%B7%E8%99%B9%E6%A1%A5,AOH&ts=%E5%8D%97%E4%BA%AC,NJH&date=2019-06-05&flag=N,Y,Y
+
+
+

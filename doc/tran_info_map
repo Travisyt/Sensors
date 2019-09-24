@@ -1,0 +1,16 @@
+3:"tranid",4:"from",5:"to",6:"depart",7:"arri",8:"deptime",9:"arritime",10:"timecost",13:"date",25:"noseat",29:"secondseat",30:"firstseat",31:"bussiseat"
+
+    private String tranid;
+    private String from;
+    private String to;
+    private String depart;
+    private String arri;
+    private String deptime;
+    private String arritime;
+    private String timecost;
+    private String date;
+    private String noseat;
+    private String secondseat;
+    private String firstseat;
+    private String bussiseat;
+
